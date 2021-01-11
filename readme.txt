@@ -1,3 +1,3 @@
-Git is a version contro; system.
-Git is free softWare.
+Git is a distributed version contro system.
+Git is free software.
 
